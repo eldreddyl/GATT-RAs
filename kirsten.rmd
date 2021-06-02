@@ -1,0 +1,16 @@
+---
+title: "Daily Reflection"
+author: "Kirsten Riley"
+date: 'Last Edited: `r Sys.Date()` '
+output: pdf_document
+---
+
+```{r,  include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Monday, June 7
+
+- Hours worked today:
+  - Hours worked this week:
+- Reflection:
