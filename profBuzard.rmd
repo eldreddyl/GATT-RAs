@@ -1,0 +1,16 @@
+---
+title: "Daily Reflection"
+author: "Professor Kristy Buzard"
+date: "Last Edited: `r format(Sys.time(), '%B %d, %Y')`"
+output: pdf_document
+---
+
+```{r,  include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Wednesday, June 2
+
+- **Hours worked today**: 3h 53m
+  - Hours worked this week: 3h 53m
+- **Reflection**: It was really exciting to finally get Beamer slides working with knitr from a .Rmd. I'm proud of the issue-based flow I created for the Github trainings for the RAs. Had a good meeting with Matt on direction of the work for 1962 --> Uruguay round.
