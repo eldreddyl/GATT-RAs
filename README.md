@@ -5,3 +5,4 @@ The GATT-RAs repository (repo) serves two purposes:
 2. This is where RAs will post their daily hours and reflections.
    - Unless explicitly agreed otherwise, daily hours and reflections will be posted via a file named "insert_your_first_name_here.rmd" that has been created for you in the repo.
    - You will update the file at the end of each workday and then submit it as a pull request in this repo.
+   - [profBuzard.rmd](https://github.com/kbuzard-SU/GATT-RAs/blob/main/profBuzard.rmd) (in this repo) is an example that will give you an idea of what we're looking for.
