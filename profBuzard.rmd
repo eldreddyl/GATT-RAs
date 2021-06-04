@@ -14,3 +14,9 @@ Wednesday, June 2
 - **Hours worked today**: 3h 53m
   - Hours worked this week: 3h 53m
 - **Reflection**: It was really exciting to finally get Beamer slides working with knitr from a .Rmd. I'm proud of the issue-based flow I created for the Github trainings for the RAs. Had a good meeting with Matt on direction of the work for 1962 --> Uruguay round.
+
+Thursday, June 3
+
+- **Hours worked today**: 1h 54m
+  - Hours worked this week: 5h 47m
+- **Reflection**: We got Kirsten added to the repo--feels like a big step in getting up and running. It's turned out to be easier than I expected to get results tables and graphs into the presentation.
