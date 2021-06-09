@@ -11,6 +11,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Monday, June 7
 
-- Hours worked today:
-  - Hours worked this week:
-- Reflection:
+- Hours worked today: 3
+  - Hours worked this week: 3
+- Reflection: Today we had our first meeting, and I was excited to meet the other members of the team. I was tasked to work alongside Victor and Kirsten on the “Smoot-Hawley to 1930’s import classification concordance.” I continued my work on the trainings in the GATT-RA and I finished the first two. I’m still learning the ins and outs of GitHub, but I think I’m slowly starting to understand the procedures. 
+
+Tuesday, June 8
+
+- Hours worked today: 3.5
+  - Hours worked this week: 6
+- Reflection: I finished the third and fourth required trainings. First, I learned how to format text using markdown. Then I became more familiar with the GitHub flow, and I learned how to submit and review pull requests.
